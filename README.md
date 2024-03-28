@@ -1,1 +1,2 @@
-My simple CV, that can be generated to PDF
+# My simple CV
+that can be generated to PDF
